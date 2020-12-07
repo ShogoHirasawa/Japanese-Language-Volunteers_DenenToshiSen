@@ -1,0 +1,24 @@
+h1,h2,p{
+  text-align: center;
+}
+.container{
+  border: solid;
+  margin:30px auto;
+
+}
+.col-sm-12{
+  border:solid 1px;
+  text-align: center;
+  height: 50px;
+}
+
+
+.col{
+  border: solid 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 100px;
+  padding: auto;
+}
